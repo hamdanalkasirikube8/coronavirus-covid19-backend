@@ -1,0 +1,5 @@
+{
+
+  "jwtPrivateKey": "1",
+  "db": "mongodb+srv://admin:519935Mongo-@covid19-coronavirus-diigu.mongodb.net/test?retryWrites=true&w=majority`, { useNewUrlParser: true, useUnifiedTopology: true }"
+}
